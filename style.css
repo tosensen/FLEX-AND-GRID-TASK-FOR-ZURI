@@ -35,11 +35,11 @@ margin: 0;}
 
     }
     .first{background-color:hsl(31, 77%, 52%);
-    padding: 2em;}
+    padding: 4em;}
     .second{background-color:hsl(184, 100%, 22%);
-    padding: 2em;}
+    padding: 4em;}
     .third{background-color:hsl(179, 100%, 13%);
-    padding: 2em;}
+    padding: 4em;}
 .button {cursor:pointer;}
 
     @media screen and (min-width:1440px){
