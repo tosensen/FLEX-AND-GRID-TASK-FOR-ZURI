@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
 body{background-color:white(250, 232, 232);
     font-size: 15px;
@@ -41,6 +40,7 @@ margin: 0;}
     padding: 2em;}
     .third{background-color:hsl(179, 100%, 13%);
     padding: 2em;}
+.button {cursor:pointer;}
 
     @media screen and (min-width:1440px){
         body{
