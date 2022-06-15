@@ -1,0 +1,56 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&display=swap');
+body{background-color:white(250, 232, 232);
+    font-size: 15px;
+}
+* {box-sizing:border-box;
+margin: 0;}
+    .flex-container 
+    {display: flex;
+    flex-direction: row;
+    margin: auto;
+    box-sizing: border-box;
+    justify-content: center;
+    padding: 2em;
+    height:50vh;
+    width: 100;
+}
+
+    h5 {text-align: center;
+        margin-top: 50px;
+      }
+    p {
+    color:hsla(0, 0%, 100%, 0.75);
+   font-family:"Lexend Deca", sans-serif;
+    padding-bottom: 50px;
+    font-weight: 400;
+    font-size: 15px;
+}
+    h3 {
+         font-family: 'Big Shoulder Display', cursive;
+        color: hsl(0, 0%, 95%);
+        border-radius: 20px;
+        border: 0px;
+        font-weight: 700;
+        padding-bottom:20px;
+
+    }
+    .first{background-color:hsl(31, 77%, 52%);
+    padding: 2em;}
+    .second{background-color:hsl(184, 100%, 22%);
+    padding: 2em;}
+    .third{background-color:hsl(179, 100%, 13%);
+    padding: 2em;}
+
+    @media screen and (min-width:1440px){
+        body{
+            display: flex;
+            flex-direction: row;
+        }
+    }
+    @media screen and (max-width:375px){
+        body{
+            display: flex;
+            flex-direction: column;
+        }
+    }
