@@ -40,7 +40,8 @@ margin: 0;}
     padding: 4em;}
     .third{background-color:hsl(179, 100%, 13%);
     padding: 4em;}
-.button {cursor:pointer;}
+.button {cursor:pointer;
+         border-radius:2px;}
 
     @media screen and (min-width:1440px){
         body{
