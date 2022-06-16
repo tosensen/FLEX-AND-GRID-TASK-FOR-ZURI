@@ -42,7 +42,7 @@
   }
   
     @media only screen and(max-width:1440px){
-       .grid-template-rows {2,
+       .grid-container {width:100%
         }
     @media only screen and (max-width:375px){
         .grid-container{
