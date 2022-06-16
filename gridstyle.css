@@ -42,12 +42,12 @@
   }
   
     @media screen and(max-width:1440px){
-       .grid-template-rows {2
+       .grid-template-rows {2,
             
            
         }
     }
     @media screen and (max-width:375px){
-        .grid-template-column{100%;
+        .grid-template-columns:repeat {1, 1fr;
         }
     }
