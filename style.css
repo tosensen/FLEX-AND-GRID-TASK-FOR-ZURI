@@ -35,11 +35,11 @@ margin: 0;}
 
     }
     .first{background-color:hsl(31, 77%, 52%);
-    padding: 4em;}
+    padding: 2em;}
     .second{background-color:hsl(184, 100%, 22%);
-    padding: 4em;}
+    padding: 2em;}
     .third{background-color:hsl(179, 100%, 13%);
-    padding: 4em;}
+    padding: 2em;}
 .button {cursor:pointer;
          border-radius:2px;}
 
