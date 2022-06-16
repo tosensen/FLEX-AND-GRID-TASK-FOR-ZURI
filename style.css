@@ -20,6 +20,8 @@ nav {
                  padding:5px;
                  position:relative
                }
+.nav-links li a:hover {width:70%} 
+.nav-links li a:after {width:100%}
 .flex-container{
     padding-top: 20vh;
     width: 65%;
