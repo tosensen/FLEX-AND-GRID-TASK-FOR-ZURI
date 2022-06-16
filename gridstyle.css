@@ -41,3 +41,13 @@
     grid-area: e;
   }
   
+    @media screen and(max-width:1440px){
+       .grid-template-rows {2
+            
+           
+        }
+    }
+    @media screen and (max-width:375px){
+        .grid-template-column{100%;
+        }
+    }
