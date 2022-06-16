@@ -6,7 +6,7 @@
 nav {
   display:flex;
   align-items: center;
-  justify-content:center;
+  justify-content:flex-end;
   padding: 1%;
 }
 .nav-links {
@@ -20,8 +20,19 @@ nav {
                  padding:5px;
                  position:relative
                }
+.nav-links li a:after{
+  content:"";
+  background:red;
+  width: 0%;
+  height: 2px;
+  position:absolute;
+  bottom: 0;
+  left: 0;
+  transition: 1s
+}
 .nav-links li a:hover {width:70%} 
 .nav-links li a:after {width:100%}
+
 .flex-container{
     padding-top: 20vh;
     width: 65%;
