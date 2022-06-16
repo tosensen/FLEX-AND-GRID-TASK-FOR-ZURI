@@ -41,7 +41,7 @@ margin: 0;}
 .button {cursor:pointer;
          border-radius:4px;}
 
-    @media screen and (min-width:1440px){
+    @media screen and (max-width:1440px){
         .flex-container{
             display: flex;
             flex-direction: row;
