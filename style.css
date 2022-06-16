@@ -41,7 +41,7 @@ margin: 0;}
     .third{background-color:hsl(179, 100%, 13%);
     padding: 2em;}
 .button {cursor:pointer;
-         border-radius:2px;}
+         border-radius:4px;}
 
     @media screen and (min-width:1440px){
         .flex-container{
