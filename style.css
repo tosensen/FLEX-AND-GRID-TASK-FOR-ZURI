@@ -3,6 +3,8 @@
     margin: 0px;
     color: hsl(0, 0%, 95%);
 }
+body{background-color:hsl(0, 0%, 95%);
+    font-size:15px; }
 nav {
   display:flex;
   align-items: center;
@@ -57,7 +59,7 @@ p{
     margin-bottom: 100px;
     color: hsla(0, 0%, 100%, 0.75);
 }
-submit{
+button{
     height: 40px;
     width: 120px;
     border: 2px solid white;
