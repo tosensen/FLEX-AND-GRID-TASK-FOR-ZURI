@@ -1,6 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
+    box-sizing:border-box;
 }
 body {background-color: hsl(0, 0%, 95%);
 }
@@ -54,7 +55,7 @@ button:hover{
     color: white;
     transition: 0.5s;
 }
-.first,.second,.third{
+.first.second.third{
   padding:40px;
     display: flex;
     flex:1 1 0;
