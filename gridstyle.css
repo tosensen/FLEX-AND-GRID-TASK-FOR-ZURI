@@ -5,9 +5,9 @@
   body {
     background-color: rgb(190, 182, 211);
   }
-header{text-align: center;
-        margin-top: 40px;
-    background-color:torquoise;
+.header{text-align: center;
+        margin-top: 50px;
+    background-color:grey;
       } 
 
   p {text-align: center;
