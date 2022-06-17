@@ -11,7 +11,7 @@ header{text-align: center;
     text-decoration:none;
     color:blue;
       }
-div{display:flex;}
+div.flex.container{display:flex;}
 flex-container{
     padding-top: 20vh;
     width: 65%;
