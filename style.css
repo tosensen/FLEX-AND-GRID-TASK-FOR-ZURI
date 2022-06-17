@@ -17,12 +17,12 @@ header{text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
-    width:800px;
+    width:100;
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
     margin-bottom: auto;
-    padding:2em;
+    padding-top:2vh;
     height:50vh;
 }
 
