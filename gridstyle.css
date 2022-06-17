@@ -5,7 +5,10 @@
   body {
     background-color: rgb(190, 182, 211);
   }
-header 
+header{text-align: center;
+        margin-top: 40px;
+    background-color:torquoise;
+      } 
 
   p {text-align: center;
     margin-top: 50px;
