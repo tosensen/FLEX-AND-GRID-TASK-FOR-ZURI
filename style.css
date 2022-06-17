@@ -11,7 +11,7 @@ header{text-align:center;
     color:red;
 }
 .flex-container{
-   padding:20vh;
+   padding-top:20vh;
     width: 65%;
     
     display: flex;
