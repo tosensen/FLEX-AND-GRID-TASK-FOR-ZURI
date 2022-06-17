@@ -193,7 +193,7 @@ button:hover{
     }
 }
 @media only screen and (max-width: 950px){
-     .wrapper{
+     .flex-container{
         display: flex;
         flex-direction: column;
     }
