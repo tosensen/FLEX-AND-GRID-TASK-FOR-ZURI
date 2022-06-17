@@ -13,9 +13,12 @@ header{text-align: center;
       }
 
 flex-container{
-    width: 65%;
-    height: 70%;
+     padding-top: 20vh;
     display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
     align-items: center;
     justify-content: center;
 }
