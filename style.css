@@ -4,10 +4,12 @@
 }
 body {background-color: hsl(0, 0%, 95%);
 }
-.header{text-align: center;
+header{text-align: center;
         margin-top: 40px;
     background-color:grey;
     font-size:40px;
+    text-decoration:none;
+    color:blue;
       }
 img{
     padding-top: 40px;
