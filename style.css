@@ -55,12 +55,10 @@ button:hover{
     transition: 0.5s;
 }
 .first,.second,.third{
-    padding-left: 35px;
-    padding-right: 20px;
-    height: 450px;
-    width: 25%;
+  padding:40px;
     display: flex;
-    flex-direction: column;
+    flex:1 1 0;
+    align-self:stretch;
 }
 .first{
     background-color: hsl(31, 77%, 52%);
