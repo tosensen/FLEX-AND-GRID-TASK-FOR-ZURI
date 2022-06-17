@@ -79,7 +79,7 @@ button:hover{
     border-radius: 0px 7.5px 7.5px 0px;
 }
 @media only screen and (max-width: 1440px){
-.flex-container{
+flex-container{
     padding-top: 20vh;
     width: 65%;
     height: 70%;
@@ -147,7 +147,7 @@ button:hover{
 }
 }
 @media only screen and (max-width: 375px){
-     .flex-containerr{
+     flex-containerr{
         display: flex;
         flex-direction: column;
     }
@@ -168,7 +168,7 @@ button:hover{
     }
 }
 @media only screen and (max-width: 950px){
-     .flex-container{
+     flex-container{
         display: flex;
         flex-direction: column;
     }
