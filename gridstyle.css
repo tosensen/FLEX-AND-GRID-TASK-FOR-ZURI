@@ -5,37 +5,7 @@
   body {
     background-color: rgb(190, 182, 211);
   }
-nav {
-  display:flex;
-  align-items: center;
-  justify-content:center;
-  padding: 1%;
-  font-size:40px;
-}
-.nav-links {
-           text-align:center;
-            background-color:#bfecb6
-           }
-.nav-links li{display:center;
-             margin:0.15px;
-             font-size:40px;}
-.nav-links li a {text-decoration:none;
-                 color:#070303;
-                 padding:5px;
-                 position:relative;
-               }
-.nav-links li a:after{
-  content:"";
-  background:red;
-  width: 0%;
-  height: 2px;
-  position:absolute;
-  bottom: 0;
-  left: 0;
-  transition: 1s
-}
-.nav-links li a:hover {width:70%} 
-.nav-links li a:after {width:100%}
+header 
 
   p {text-align: center;
     margin-top: 50px;
